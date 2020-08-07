@@ -27,3 +27,9 @@
         visibility: hidden;
     }
 }
+
+.images img{
+display:block;
+margin:auto;
+width:400px;
+}
